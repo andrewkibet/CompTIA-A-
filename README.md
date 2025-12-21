@@ -1,4 +1,4 @@
-# CompTIA-A-
+# CompTIA-A+
 Summary of CompTIA A+ Certification
 
 As we continue through this course, you may notice that there are many terms we will need to learn. Understanding these terms is an important aspect of the course to complete the certification exam. Be sure to review the learning activities and flashcards in each lesson.
